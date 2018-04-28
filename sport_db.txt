@@ -1,0 +1,256 @@
+-- phpMyAdmin SQL Dump
+-- version 4.5.1
+-- http://www.phpmyadmin.net
+--
+-- Host: 127.0.0.1
+-- Generation Time: 2018-04-20 17:26:12
+-- 服务器版本： 10.1.19-MariaDB
+-- PHP Version: 5.6.28
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `sports_db`
+--
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `admin`
+--
+
+CREATE TABLE `admin` (
+  `adm_userid` varchar(32) NOT NULL,
+  `adm_password` varchar(32) NOT NULL,
+  `adm_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `athletes`
+--
+
+CREATE TABLE `athletes` (
+  `ath_id` varchar(4) NOT NULL,
+  `ath_name` varchar(18) NOT NULL,
+  `ath_sex` char(1) NOT NULL,
+  `ath_college` varchar(4) NOT NULL,
+  `ath_match` varchar(24) NOT NULL,
+  `ath_status` varchar(32) NOT NULL,
+  `ath_score` varchar(64) DEFAULT '0',
+  `ath_integral` varchar(32) DEFAULT '0',
+  `ath_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `athletes`
+--
+
+INSERT INTO `athletes` (`ath_id`, `ath_name`, `ath_sex`, `ath_college`, `ath_match`, `ath_status`, `ath_score`, `ath_integral`, `ath_timestamp`) VALUES
+('0101', '林一', '男', '01', '1101', '1', '0', '1', 0),
+('0201', '王二', '男', '02', '1101', '1', '0', '2', 0),
+('0301', '张三', '男', '03', '1101', '1', '0', '6', 0),
+('0401', '李四', '男', '04', '1101', '1', '0', '5', 0),
+('0501', '王五', '男', '05', '1101,2301', '1', '0', '2', 0),
+('0502', '如来', '男', '05', '2301', '1', '0', '4', 0),
+('0601', '贼六', '男', '06', '1101,2301', '1', '0', '6', 0),
+('0602', '刘坤', '女', '06', '2301', '1', '0', '8', 0),
+('0701', '赵七', '男', '07', '1101,2301', '1', '0', '6', 0),
+('0702', '张婷', '女', '07', '2301', '1', '0', '9', 0),
+('0801', '胡八', '男', '08', '1101,2301', '1', '0', '8', 0),
+('0802', '观音', '女', '08', '2301', '1', '0', '7', 0);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `college`
+--
+
+CREATE TABLE `college` (
+  `col_id` varchar(4) NOT NULL,
+  `col_name` varchar(16) NOT NULL,
+  `col_integral` int(4) NOT NULL DEFAULT '0',
+  `col_gold` int(4) NOT NULL DEFAULT '0',
+  `col_silver` int(4) NOT NULL DEFAULT '0',
+  `col_copper` int(4) NOT NULL DEFAULT '0',
+  `col_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `college`
+--
+
+INSERT INTO `college` (`col_id`, `col_name`, `col_integral`, `col_gold`, `col_silver`, `col_copper`, `col_timestamp`) VALUES
+('01', '轻工科学与工程学院', 20, 2, 1, 0, 0),
+('02', '材料科学与工程学院', 19, 2, 12, 1, 0),
+('03', '环境科学与工程学院', 30, 2, 0, 5, 0),
+('04', '食品与生物工程学院', 25, 1, 2, 2, 0),
+('05', '机电工程学院', 66, 2, 0, 3, 0),
+('06', '电气与信息工程学院', 55, 2, 2, 6, 0),
+('07', '经济与管理学院', 12, 3, 2, 0, 0),
+('08', '化学与化工学院', 1, 5, 5, 8, 0),
+('09', '设计与艺术学院', 2, 6, 2, 8, 0),
+('10', '文理学院', 3, 2, 0, 9, 0),
+('11', '职业技术学院', 4, 0, 28, 0, 0),
+('12', '镐京学院', 1, 2, 3, 5, 0);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `finals`
+--
+
+CREATE TABLE `finals` (
+  `fin_id` varchar(6) NOT NULL,
+  `fin_name` varchar(24) NOT NULL,
+  `fin_rank` varchar(80) NOT NULL,
+  `fin_score` varchar(128) NOT NULL,
+  `fin_newcord` varchar(128) DEFAULT NULL,
+  `fin_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `finals`
+--
+
+INSERT INTO `finals` (`fin_id`, `fin_name`, `fin_rank`, `fin_score`, `fin_newcord`, `fin_timestamp`) VALUES
+('1101', '大学生组 男子 110米栏', '0201,0401,0301,0501,0601,0701,0801,0101', '8,7,6,5,4,3,2,1', NULL, 0),
+('1102', '大学生组 男子 100米', '0501,0601,0701,0801,0101,0201,0401,0301', '8,7,6,5,4,3,2,1', NULL, 0),
+('1103', '大学生组 男子 200米', '0201,0401,0301,0501,0601,0701,0801,0101', '8,7,6,5,4,3,2,1', NULL, 0),
+('1104', '大学生组 男子 400米', '', '', NULL, 0),
+('1105', '大学生组 男子 800米', '', '', NULL, 0),
+('1106', '大学生组 男子 1500米', '0201,0401,0301,0501,0601,0701,0801,0101', '8,7,6,5,4,3,2,1', NULL, 0),
+('1107', '大学生组 男子 5000米', '', '', NULL, 0),
+('1108', '大学生组 男子 跳高', '', '', NULL, 0),
+('1109', '大学生组 男子 跳远', '', '', NULL, 0),
+('1110', '大学生组 男子 三级跳远', '', '', NULL, 0),
+('1111', '大学生组 男子 铅球', '', '', NULL, 0),
+('1112', '大学生组 男子 标枪', '', '', NULL, 0),
+('1201', '大学生组 女子 100米', '', '', NULL, 0),
+('1202', '大学生组 女子 200米', '', '', NULL, 0),
+('1203', '大学生组 女子 400米', '', '', NULL, 0),
+('1204', '大学生组 女子 800米', '', '', NULL, 0),
+('1206', '大学生组 女子 3000米', '', '', NULL, 0),
+('1207', '大学生组 女子 跳高', '', '', NULL, 0),
+('1208', '大学生组 女子 跳远', '', '', NULL, 0),
+('1209', '大学生组 女子 三级跳远', '', '', NULL, 0),
+('1210', '大学生组 女子 铅球', '', '', NULL, 0),
+('1211', '大学生组 女子 标枪', '', '', NULL, 0),
+('2101', '大学生团体赛 男子 4*100米接力', '0501,0502,0601,0602', '4,3,2,1', NULL, 0),
+('2102', '大学生团体赛 男子 4*400米接力', '', '', NULL, 0),
+('2103', '大学生团体赛 男子 三人踏板竞速', '', '', NULL, 0),
+('2104', '大学生团体赛 男子 引体向上团体赛', '', '', NULL, 0),
+('2201', '大学生团体赛 女子 4*100接力', '', '', NULL, 0),
+('2202', '大学生团体赛 女子4*200米接力', '', '', NULL, 0),
+('2203', '大学生团体赛 女子 三人踏板竞速', '', '', NULL, 0),
+('2204', '大学生团体赛 女子 仰卧起坐团体赛', '', '', NULL, 0),
+('2301', '大学生团体赛 男女 十人十一足', '', '', NULL, 0),
+('2302', '大学生团体赛 男女 七人龙卷风', '', '', NULL, 0),
+('2303', '大学生团体赛 男女 接力投篮', '', '', NULL, 0),
+('2304', '大学生团体赛 男女 阻碍迎面接力', '', '', NULL, 0),
+('2305', '大学生团体赛 男女 滚铁环迎面接力', '', '', NULL, 0),
+('2306', '大学生团体赛 男女 立定跳远团体赛', '', '', NULL, 0);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `match`
+--
+
+CREATE TABLE `match` (
+  `mat_id` varchar(6) NOT NULL,
+  `mat_name` varchar(24) NOT NULL,
+  `mat_pretime` varchar(20) DEFAULT NULL,
+  `mat_remtime` varchar(20) DEFAULT NULL,
+  `mat_fintime` varchar(20) NOT NULL,
+  `mat_athortea` varchar(256) NOT NULL,
+  `mat_status` tinyint(4) NOT NULL,
+  `mat_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `match`
+--
+
+INSERT INTO `match` (`mat_id`, `mat_name`, `mat_pretime`, `mat_remtime`, `mat_fintime`, `mat_athortea`, `mat_status`, `mat_timestamp`) VALUES
+('1101', '大学生组 男子 110米栏', '2018-4-26 9:00:00', '2018-4-26 14:00:00', '2018-4-26 16:00:00', '0101,0201,0301,0401,0501,0601,0701,0801,0901,1001,1101,1201', 1, 0),
+('2301', '大学生组 男女 障碍迎面接力', '2018-4-26 9:30:00', '2018-4-26 14:30:00', '2018-4-26 15:30:00', '20501,20601,20701,20801', 1, 0);
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `team`
+--
+
+CREATE TABLE `team` (
+  `team_id` varchar(5) NOT NULL,
+  `team_members` varchar(256) NOT NULL,
+  `team_college` varchar(4) NOT NULL,
+  `team_match` varchar(24) NOT NULL,
+  `team_status` varchar(32) NOT NULL,
+  `team_score` varchar(64) DEFAULT '0',
+  `team_integral` varchar(32) DEFAULT '0',
+  `team_timestamp` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `team`
+--
+
+INSERT INTO `team` (`team_id`, `team_members`, `team_college`, `team_match`, `team_status`, `team_score`, `team_integral`, `team_timestamp`) VALUES
+('20501', '0501,0502', '05', '2301', '3', '0', '0', 0),
+('20601', '0601,0602', '06', '2301', '3', '0', '0', 0),
+('20701', '0701,0702', '07', '2301', '3', '0', '0', 0),
+('20801', '0801,0802', '08', '2301', '3', '0', '0', 0);
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `admin`
+--
+ALTER TABLE `admin`
+  ADD PRIMARY KEY (`adm_userid`);
+
+--
+-- Indexes for table `athletes`
+--
+ALTER TABLE `athletes`
+  ADD PRIMARY KEY (`ath_id`);
+
+--
+-- Indexes for table `college`
+--
+ALTER TABLE `college`
+  ADD PRIMARY KEY (`col_id`);
+
+--
+-- Indexes for table `finals`
+--
+ALTER TABLE `finals`
+  ADD PRIMARY KEY (`fin_id`);
+
+--
+-- Indexes for table `match`
+--
+ALTER TABLE `match`
+  ADD PRIMARY KEY (`mat_id`);
+
+--
+-- Indexes for table `team`
+--
+ALTER TABLE `team`
+  ADD PRIMARY KEY (`team_id`);
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
