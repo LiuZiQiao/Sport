@@ -1,0 +1,45 @@
+{extend name="common/base" /}
+
+{block name="title"}SUST Sports 2018{/block}
+
+{block name="css"}
+<link rel="stylesheet" type="text/css" href="__CSS__/event_style.css" />
+{/block}
+
+{block name="js"}
+<script src="__JS__/event.js"></script>
+{/block}
+
+{block name="body"}
+
+  <div class="tabl">
+  <table class="table table-striped  table-bordered  table-hover text-center">
+
+  <h3>赛事预告</h3>
+
+  <thead>
+  <tr >
+	<th class="text-center">时间</th>
+	<th class="text-center">比赛项目</th>
+	<th class="text-center">赛次</th>
+  </tr>
+  </thead>
+
+  {foreach name="matime" as item="mat" key="i"}
+  <tr >
+	<td>{$mat['mat_time']}</td>
+	<td>{$mat['mat_name']}</td>
+	<td>{$mat['mat_status']}</td>
+  </tr>
+  {/foreach}
+
+  </table>
+</div>
+
+    <button id="querymatch">查询所有赛事</button>
+
+  <br/>
+  <div class="table-responsive  tabl">
+  </div>
+
+{/block}

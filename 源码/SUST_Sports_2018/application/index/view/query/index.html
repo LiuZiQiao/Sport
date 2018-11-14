@@ -1,0 +1,77 @@
+{extend name="common/base" /}
+
+{block name="title"}SUST Sports 2018{/block}
+
+{block name="css"}
+<link rel="stylesheet" type="text/css" href="__CSS__/query_style.css" />
+{/block}
+
+{block name="js"}
+<script src="__JS__/query.js"></script>
+{/block}
+
+{block name="body"}
+
+<br/>
+
+<div class="input-group">
+  <input type="text" class="form-control" id="search" placeholder="输入运动员名字或编号查询" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2"> <span class="glyphicon glyphicon-search" aria-hidden="true"></span></span>
+</div>
+
+<div class="table-responsive1">
+</div>
+
+<h4> ->> 查询决赛排名 <<-</h4>
+
+<div class="sele">
+<select class="form-control" id="lev1" name="match_class" onclick="clicklev1(this.value)" onchange="changeitem(this.value)">
+      {foreach name="Think.config.match.class" as item="volc" key="c"}
+        <option value={$c}>{$volc}</option>
+      {/foreach}
+    </select>
+    <select  class="form-control" id="lev2" name="class_item">
+      {foreach name="Think.config.match.item_1" as item="voli" key="i"}
+        <option class="item1" value={$i}>{$voli}</option>
+      {/foreach}
+      {foreach name="Think.config.match.item_2" as item="voli" key="i"}
+        <option class="item2" value={$i}>{$voli}</option>
+      {/foreach}
+    </select>
+</div>
+
+<div class="Button">
+  <button id="queryrank">查询</button>
+</div>
+
+<div class="table-responsive2 tabl">
+</div>
+
+<h4> ->> 按学院查询 <<-</h4>
+
+<div class="sele">
+<select class="form-control" id="selcol">
+  <option  selected="selected" value="01">请选择学院</option>
+  <option value="01">轻工科学与工程学院</option>
+  <option value="02">材料科学与工程学院</option>
+  <option value="03">环境科学与工程学院</option>
+  <option value="04">食品与生物工程学院</option>
+  <option value="05">机电工程学院 </option>
+  <option value="06">电气与信息工程学院</option>
+  <option value="07">经济与管理学院</option>
+  <option value="08">化学与化工学院 </option>
+  <option value="09">设计与艺术学院 </option>
+  <option value="10">文理学院 </option>
+  <option value="11">教育学院 </option>
+  <option value="12">镐京学院 </option>
+</select>
+</div>
+
+<div>
+  <button id="queryrank3">查询</button>
+</div>
+
+<div class="table-responsive3 tabl">
+</div>
+
+{/block}

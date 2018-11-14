@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html leng="en">
+<head>
+  <meta charset="UFT-8">
+  <title>{block name="title"}SUST Sports 2018{/block}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="__CSS__/common_style.css" />
+  <link rel="stylesheet" href="__CSS__/bootstrap.min.css">
+  <script src="__JS__/common.js"></script>
+  <script src="__JS__/jquery-2.2.3.min.js"></script>
+  <script src="__JS__/bootstrap.min.js"></script>
+  {block name="css"}{/block}
+  {block name="js"}{/block}
+</head>
+<body>
+</body>
+  <img src="__CSS__/../img/index_bg.jpg" class="blur"/>
+
+  <div class="wrap">
+
+    <!--头部-->
+    <div class="header">
+      <img src="__CSS__/../img/theme.jpg"/>
+    </div>
+
+    <!--中部-->
+    <div class="main">
+      {block name="body"}{/block}
+    </div>
+
+    <!--底部-->
+    <div class="bottom">
+      <ul class="nav nav-tabs">
+        <li id="menu1" class="col-md-3 text-center"><a href="./index"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></br><span class="litext">主页</span></a></li>
+        <li id="menu2" class="col-md-3 text-center"><a href="./event"><span class="glyphicon glyphicon-list" aria-hidden="true"></span></br><span class="litext">赛事</span></a></li>
+        <li id="menu3" class="col-md-3 text-center"><a href="./query"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></br><span class="litext">查询</span></a></li>
+        <li id="menu4" class="col-md-3 text-center"><a href="./interaction"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span></br><span class="litext">互动</span></a></li>
+      </ul>
+    </div>
+
+</body>
+</html>

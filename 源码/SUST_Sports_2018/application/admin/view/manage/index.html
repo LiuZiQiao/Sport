@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html leng="en">
+<head>
+  <meta charset="UFT-8">
+  <title>SUST Sports 2018 Manager</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="__CSS__/admin/manage_style.css" />
+  <link rel="stylesheet" href="__CSS__/bootstrap.min.css">
+  <script src="__JS__/jquery-2.2.3.min.js"></script>
+  <script src="__JS__/bootstrap.min.js"></script>
+  <script src="__JS__/admin/manage.js"></script>
+</head>
+<body background="__CSS__/../img/index_bg.jpg">
+
+  <div class="wrap">
+
+    <!--头部-->
+    <div class="header">
+      <img src="__CSS__/../img/theme.jpg"/>
+    </div>
+
+    <div>
+      <h4>晋级决赛 / 比赛成绩</h4>
+    <div id="div1" class="open1">
+          <div id="div2" class="open2"></div>
+      </div>
+    </div>
+
+    <div id="stat">当前状态：录入比赛成绩排名</div>
+
+    <select id="lev1" name="match_class" onclick="clicklev1(this.value)" onchange="changeitem(this.value)">
+      {foreach name="Think.config.match.class" as item="volc" key="c"}
+        <option value={$c}>{$volc}</option>
+      {/foreach}
+    </select>
+
+    <select id="lev2" name="class_item">
+      {foreach name="Think.config.match.item_1" as item="voli" key="i"}
+        <option class="item1" value={$i}>{$voli}</option>
+      {/foreach}
+      {foreach name="Think.config.match.item_2" as item="voli" key="i"}
+        <option class="item2" value={$i}>{$voli}</option>
+      {/foreach}
+    </select>
+
+  </div>
+
+  <div class="forms">
+    <div class="text1">编号</div>
+    <div class="text2">成绩</div>
+    <div class="text3">积分</div>
+    <div class="text4">破纪录</div>
+  </div>
+
+  {for start="1" end="9"}
+  <div class="forms" id="forms_{$i}">
+
+    <div class="inpid">
+    <label for="aht_{$i}" class="labe">{$i}、</label>
+    <input type="number" name="ath_{$i}" id="ath_{$i}" class="athletes"/>
+  </div>
+
+  <div class="ath_name" ></div>
+
+  <div class="inpsco">
+    <input type="text" name="sco_{$i}" id="sco_{$i}" class="score"/>
+  </div>
+
+  <div class="inping">
+    <input  type="number" name="integ" id="ing_{$i}" class="integ"/>
+  </div>
+
+  <div class="inpnew">
+    <input  type="checkbox" value="0" id="brc_{$i}" class="breakc"/>
+  </div>
+
+  </div>
+  {/for}
+
+  <div class="Button">
+    <button id="updata">确认</button>
+  </div>
+
+</body>
+</html>

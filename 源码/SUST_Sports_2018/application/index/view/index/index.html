@@ -1,0 +1,30 @@
+{extend name="common/base" /}
+
+{block name="title"}SUST Sports 2018{/block}
+
+{block name="css"}
+<link rel="stylesheet" type="text/css" href="__CSS__/rank_style.css" />
+{/block}
+
+{block name="js"}
+<script src="__JS__/rank.js"></script>
+{/block}
+
+{block name="body"}
+<h3>校运会积分排行榜</h3>
+{foreach name="rank" as item="vol" key="s"}
+<div class="college">
+  <img class="ranking" src="__CSS__/../img/college_rank/{$s+1}.jpg"/>
+  <div class="college_name">{$vol.col_name}</div>
+  <div class="score">总积分<br/><span>{$vol.col_integral}</span></div>
+  <hr class="line"/>
+  <img class="gold" src="__CSS__/../img/college_rank/gold.jpg"/>
+  <div class="gold_amount">{$vol.col_gold}</div>
+  <img class="silver" src="__CSS__/../img/college_rank/silver.jpg"/>
+  <div class="silver_amount">{$vol.col_silver}</div>
+  <img class="copper" src="__CSS__/../img/college_rank/copper.jpg"/>
+  <div class="copper_amount">{$vol.col_copper}</div>
+</div>
+{/foreach}
+
+{/block}
