@@ -1,0 +1,236 @@
+sustdxstudio2018 login fails  2018-04-25 09:27:01
+sustdxstudio2018 login fails  2018-04-25 09:27:38
+sustdxstudio2018 login fails  2018-04-25 09:33:18
+sustdxstudio2018 login fails  2018-04-25 09:33:46
+sustdxstudio2018 login fails  2018-04-25 09:33:50
+sustdxstudio2018 login fails  2018-04-25 09:34:00
+ login fails  2018-04-25 09:47:58
+ login fails  2018-04-25 09:49:27
+ login fails  2018-04-25 09:49:31
+1231 login fails  2018-04-25 09:49:41
+sustdxstudio2018 login fails  2018-04-25 09:50:10
+sustdxstudio2018 login fails  2018-04-25 09:50:14
+sustdxstudio2018 login fails  2018-04-25 09:50:14
+1231 login fails  2018-04-25 09:51:12
+1231 login fails  2018-04-25 09:52:20
+1231 login fails  2018-04-25 09:52:21
+1231 login fails  2018-04-25 09:52:21
+1231 login success  2018-04-25 09:53:17
+1231 login success  2018-04-25 09:53:41
+sustdxyibanweb login fails  2018-04-25 09:54:14
+sustdxyibanweb login fails  2018-04-25 09:54:18
+sustdxyibanweb login fails  2018-04-25 09:54:59
+sustdxyibanweb login fails  2018-04-25 09:55:04
+sustdxyibanweb login fails  2018-04-25 09:55:21
+sustdxyibanweb login fails  2018-04-25 09:55:31
+sustdxyibanweb login fails  2018-04-25 09:55:49
+sustdxyibanweb login fails  2018-04-25 09:55:56
+sustdxyibanweb login fails  2018-04-25 09:55:57
+sustdxyibanweb login fails  2018-04-25 09:55:57
+sustdxyibanweb login fails  2018-04-25 09:55:57
+sustdxyibanweb login fails  2018-04-25 09:55:58
+sustdxyibanweb login fails  2018-04-25 09:56:45
+sustdxyibanweb login fails  2018-04-25 09:57:08
+sustdxyibanweb login success  2018-04-25 09:57:45
+sustdxyibanweb login success  2018-04-25 09:57:47
+sustdxyibanweb login success  2018-04-25 10:01:15
+sustdxyibanweb login success  2018-04-25 10:09:39
+sustdxyibanweb login success  2018-04-25 11:17:44
+sustdxyibanweb updata success finals fin_id:2303 -> fin_rank:02,08,06,05,03,07,12,0 / fin_score:59,57,52,50,44,33,31,2 / fin_newcord:  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:022303 -> team_score:2303:59 / team_integral:2303:18  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:082303 -> team_score:2303:57 / team_integral:2303:14  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:062303 -> team_score:2303:52 / team_integral:2303:12  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:052303 -> team_score:2303:50 / team_integral:2303:10  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:032303 -> team_score:2303:44 / team_integral:2303:8  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:072303 -> team_score:2303:33 / team_integral:2303:6  2018-04-25 11:24:02
+sustdxyibanweb updata success team team_id:122303 -> team_score:2303:31 / team_integral:2303:4  2018-04-25 11:24:02
+sustdxyibanweb updata fails team team_id:02303 -> team_score:2303:2 / team_integral:2303:  2018-04-25 11:24:02
+sustdxyibanweb updata success athletes ath_id:0658 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0763 -> ath_status:1205:3,1206:3  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:1261 -> ath_status:1205:3,1206:3  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0651 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0669 -> ath_status:1205:3,1203:1  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0256 -> ath_status:1205:3,1203:1,1204:1  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0254 -> ath_status:1205:3,1204:1  2018-04-25 11:27:54
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:27:54
+sustdxyibanweb updata success athletes ath_id:0658 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0763 -> ath_status:1205:3,1206:3  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:1261 -> ath_status:1205:3,1206:3  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0651 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0669 -> ath_status:1205:3,1203:1  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0256 -> ath_status:1205:3,1203:1,1204:1  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0254 -> ath_status:1205:3,1204:1  2018-04-25 11:27:56
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:27:56
+sustdxyibanweb updata success athletes ath_id:0658 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:0763 -> ath_status:1205:3,1206:3  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:1261 -> ath_status:1205:3,1206:3  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:0651 -> ath_status:1205:3,1204:1,1206:3  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:0669 -> ath_status:1205:3,1203:1  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:0256 -> ath_status:1205:3,1203:1,1204:1  2018-04-25 11:28:17
+sustdxyibanweb updata success athletes ath_id:0254 -> ath_status:1205:3,1204:1  2018-04-25 11:28:17
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:28:17
+sustdxyibanweb login success  2018-04-25 11:38:22
+sustdxyibanweb updata success finals fin_id:1205 -> fin_rank:0658,0763,1261,0651,0669,0256,0254,085 / fin_score:5分58秒,6分04秒,6分06秒,6分07秒,6分10秒,6分11秒,6分21秒,6分26,秒 / fin_newcord:  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0658 -> ath_score:1205:5分58秒 / ath_integral:1205:9.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0763 -> ath_score:1205:6分04秒 / ath_integral:1205:7.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:1261 -> ath_score:1205:6分06秒 / ath_integral:1205:6.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0651 -> ath_score:1205:6分07秒 / ath_integral:1205:5.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0669 -> ath_score:1205:6分10秒 / ath_integral:1205:4.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0256 -> ath_score:1205:6分11秒 / ath_integral:1205:3.0  2018-04-25 11:41:36
+sustdxyibanweb updata success athletes ath_id:0254 -> ath_score:1205:6分21秒 / ath_integral:1205:2.0  2018-04-25 11:41:36
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_score:1205:6分26 / ath_integral:1205:1.  2018-04-25 11:41:36
+sustdxyibanweb updata success college col_id:06 -> col_integral:9 / col_gold:1 / col_silver:0 / col_copper:0  2018-04-25 11:41:36
+sustdxyibanweb updata success college col_id:07 -> col_integral:7 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:41:36
+sustdxyibanweb updata success college col_id:12 -> col_integral:6 / col_gold:0 / col_silver:0 / col_copper:1  2018-04-25 11:41:36
+sustdxyibanweb updata success college col_id:06 -> col_integral:14 / col_gold:1 / col_silver:0 / col_copper:0  2018-04-25 11:41:36
+sustdxyibanweb updata success college col_id:06 -> col_integral:18 / col_gold:1 / col_silver:0 / col_copper:0  2018-04-25 11:41:37
+sustdxyibanweb updata success college col_id:02 -> col_integral:3 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:41:37
+sustdxyibanweb updata success college col_id:02 -> col_integral:5 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:41:37
+sustdxyibanweb updata success college col_id:08 -> col_integral:1 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:41:37
+sustdxyibanweb updata success finals fin_id:2303 -> fin_rank:02,08,06,05,03,07,12,0 / fin_score:59,57,52,50,44,33,31,2 / fin_newcord:  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:022303 -> team_score:2303:18,2303:59 / team_integral:2303:18  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:082303 -> team_score:2303:14,2303:57 / team_integral:2303:14  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:062303 -> team_score:2303:12,2303:52 / team_integral:2303:12  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:052303 -> team_score:2303:10,2303:50 / team_integral:2303:10  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:032303 -> team_score:2303:8,2303:44 / team_integral:2303:8  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:072303 -> team_score:2303:6,2303:33 / team_integral:2303:6  2018-04-25 11:43:31
+sustdxyibanweb updata success team team_id:122303 -> team_score:2303:4,2303:31 / team_integral:2303:4  2018-04-25 11:43:31
+sustdxyibanweb updata fails team team_id:02303 -> team_score:2303:2 / team_integral:2303:  2018-04-25 11:43:31
+sustdxyibanweb updata success finals fin_id:1106 -> fin_rank:0604,1004,1210,1213,0209,1212,0211,051 / fin_score:4分46秒,4分52秒,4分56秒,5分01秒,5分02秒,5分03秒,5分04秒,5分05秒 / fin_newcord:  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:0604 -> ath_score:1106:4分46秒 / ath_integral:1106:9.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:1004 -> ath_score:1106:4分52秒 / ath_integral:1106:7.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:1210 -> ath_score:1106:4分56秒 / ath_integral:1106:6.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:1213 -> ath_score:1106:5分01秒 / ath_integral:1106:5.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:0209 -> ath_score:1106:5分02秒 / ath_integral:1106:4.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:1212 -> ath_score:1106:5分03秒 / ath_integral:1106:3.0  2018-04-25 11:46:15
+sustdxyibanweb updata success athletes ath_id:0211 -> ath_score:1106:5分04秒 / ath_integral:1106:2.0  2018-04-25 11:46:15
+sustdxyibanweb updata fails athletes ath_id:051 -> ath_score:1106:5分05秒 / ath_integral:1106:1.  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:06 -> col_integral:27 / col_gold:2 / col_silver:0 / col_copper:0  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:10 -> col_integral:7 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:12 -> col_integral:12 / col_gold:0 / col_silver:0 / col_copper:2  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:12 -> col_integral:17 / col_gold:0 / col_silver:0 / col_copper:2  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:02 -> col_integral:9 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:12 -> col_integral:20 / col_gold:0 / col_silver:0 / col_copper:2  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:02 -> col_integral:11 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:46:15
+sustdxyibanweb updata success college col_id:05 -> col_integral:1 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:46:15
+sustdxyibanweb updata success finals fin_id:1111 -> fin_rank:0216,0508,1219,1221,0721,0511,0406,122 / fin_score:9.46,9.38,8.95,8.50,8.27,8.23,8.21,8.0 / fin_newcord:  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:0216 -> ath_score:1111:9.46 / ath_integral:1111:9  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:0508 -> ath_score:1111:9.38 / ath_integral:1111:7  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:1219 -> ath_score:1111:8.95 / ath_integral:1111:6  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:1221 -> ath_score:1111:8.50 / ath_integral:1111:5  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:0721 -> ath_score:1111:8.27 / ath_integral:1111:4  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:0511 -> ath_score:1111:8.23 / ath_integral:1111:3  2018-04-25 11:55:32
+sustdxyibanweb updata success athletes ath_id:0406 -> ath_score:1111:8.21 / ath_integral:1111:2  2018-04-25 11:55:32
+sustdxyibanweb updata fails athletes ath_id:122 -> ath_score:1111:8.0 / ath_integral:1111:  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:02 -> col_integral:20 / col_gold:1 / col_silver:0 / col_copper:0  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:05 -> col_integral:8 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:12 -> col_integral:26 / col_gold:0 / col_silver:0 / col_copper:3  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:12 -> col_integral:31 / col_gold:0 / col_silver:0 / col_copper:3  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:07 -> col_integral:11 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:05 -> col_integral:11 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:55:32
+sustdxyibanweb updata success college col_id:04 -> col_integral:2 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 11:55:32
+sustdxyibanweb updata fails college col_id:12 -> col_integral:31 / col_gold:0 / col_silver:0 / col_copper:3  2018-04-25 11:55:32
+sustdxyibanweb updata success finals fin_id:1208 -> fin_rank:1251,0357,0653,0650,0355,0551,1267,126 / fin_score:4米58,4米43,4米24,4米16,4米16,3米90,3米88,3米82 / fin_newcord:  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:1251 -> ath_score:1208:4米58 / ath_integral:1208:9.0  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:0357 -> ath_score:1208:4米43 / ath_integral:1208:7.0  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:0653 -> ath_score:1208:4米24 / ath_integral:1208:6.0  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:0650 -> ath_score:1208:4米16 / ath_integral:1208:4.5  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:0355 -> ath_score:1208:4米16 / ath_integral:1208:4.5  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:0551 -> ath_score:1208:3米90 / ath_integral:1208:3.0  2018-04-25 11:56:38
+sustdxyibanweb updata success athletes ath_id:1267 -> ath_score:1208:3米88 / ath_integral:1208:2.0  2018-04-25 11:56:38
+sustdxyibanweb updata fails athletes ath_id:126 -> ath_score:1208:3米82 / ath_integral:1208:1.  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:12 -> col_integral:40 / col_gold:1 / col_silver:0 / col_copper:3  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:03 -> col_integral:7 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:06 -> col_integral:33 / col_gold:2 / col_silver:0 / col_copper:1  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:06 -> col_integral:37.5 / col_gold:2 / col_silver:0 / col_copper:1  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:03 -> col_integral:11.5 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:05 -> col_integral:14 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:12 -> col_integral:42 / col_gold:1 / col_silver:0 / col_copper:3  2018-04-25 11:56:38
+sustdxyibanweb updata success college col_id:12 -> col_integral:43 / col_gold:1 / col_silver:0 / col_copper:3  2018-04-25 11:56:38
+sustdxyibanweb login fails  2018-04-25 13:48:19
+sustdxyibanweb login success  2018-04-25 13:48:33
+sustdxyibanweb updata success finals fin_id:2202 -> fin_rank:02,12,07,06,05,08,04,10 / fin_score:5分1.2秒,5分11秒,5分18.6秒,5分39.7秒,5分40.6秒,5分47.4秒,5分49.8秒,6分67.3秒 / fin_newcord:  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:022202 -> team_score:2202:5分1.2秒 / team_integral:2202:18  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:122202 -> team_score:2202:5分11秒 / team_integral:2202:14  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:072202 -> team_score:2202:5分18.6秒 / team_integral:2202:12  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:062202 -> team_score:2202:5分39.7秒 / team_integral:2202:10  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:052202 -> team_score:2202:5分40.6秒 / team_integral:2202:8  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:082202 -> team_score:2202:5分47.4秒 / team_integral:2202:6  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:042202 -> team_score:2202:5分49.8秒 / team_integral:2202:4  2018-04-25 14:00:59
+sustdxyibanweb updata success team team_id:102202 -> team_score:2202:6分67.3秒 / team_integral:2202:2  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:02 -> col_integral:38 / col_gold:2 / col_silver:0 / col_copper:0  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:12 -> col_integral:57 / col_gold:1 / col_silver:1 / col_copper:3  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:07 -> col_integral:23 / col_gold:0 / col_silver:1 / col_copper:1  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:06 -> col_integral:47 / col_gold:2 / col_silver:0 / col_copper:1  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:05 -> col_integral:22 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:08 -> col_integral:7 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:04 -> col_integral:6 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:00:59
+sustdxyibanweb updata success college col_id:10 -> col_integral:9 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:00:59
+sustdxyibanweb updata success finals fin_id:2102 -> fin_rank:06,02,05,12,07,08,10,09 / fin_score:3分44.7秒,3分51.1秒,4分4.5秒,4分10.4秒,4分16秒,4分20.3秒,4分23.5秒,4分54.3秒 / fin_newcord:  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:062102 -> team_score:2102:3分44.7秒 / team_integral:2102:18  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:022102 -> team_score:2102:3分51.1秒 / team_integral:2102:14  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:052102 -> team_score:2102:4分4.5秒 / team_integral:2102:12  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:122102 -> team_score:2102:4分10.4秒 / team_integral:2102:10  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:072102 -> team_score:2102:4分16秒 / team_integral:2102:8  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:082102 -> team_score:2102:4分20.3秒 / team_integral:2102:6  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:102102 -> team_score:2102:4分23.5秒 / team_integral:2102:4  2018-04-25 14:05:22
+sustdxyibanweb updata success team team_id:092102 -> team_score:2102:4分54.3秒 / team_integral:2102:4  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:06 -> col_integral:65 / col_gold:3 / col_silver:0 / col_copper:1  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:02 -> col_integral:52 / col_gold:2 / col_silver:1 / col_copper:0  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:05 -> col_integral:34 / col_gold:0 / col_silver:1 / col_copper:1  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:12 -> col_integral:67 / col_gold:1 / col_silver:1 / col_copper:3  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:07 -> col_integral:31 / col_gold:0 / col_silver:1 / col_copper:1  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:08 -> col_integral:13 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:10 -> col_integral:13 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:05:22
+sustdxyibanweb updata success college col_id:09 -> col_integral:4 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:05:22
+sustdxyibanweb updata success finals fin_id:2103 -> fin_rank:02,07,08,06,05,03,09,12 / fin_score:17.26秒,18.31秒,19.56秒,19.95秒,22.70秒,24,28秒,24.36秒,29.19秒 / fin_newcord:  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:022103 -> team_score:2103:17.26秒 / team_integral:2103:18  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:072103 -> team_score:2103:18.31秒 / team_integral:2103:14  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:082103 -> team_score:2103:19.56秒 / team_integral:2103:12  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:062103 -> team_score:2103:19.95秒 / team_integral:2103:10  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:052103 -> team_score:2103:22.70秒 / team_integral:2103:8  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:032103 -> team_score:2103:24 / team_integral:2103:6  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:092103 -> team_score:2103:28秒 / team_integral:2103:4  2018-04-25 14:10:52
+sustdxyibanweb updata success team team_id:122103 -> team_score:2103:24.36秒 / team_integral:2103:2  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:02 -> col_integral:70 / col_gold:3 / col_silver:1 / col_copper:0  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:07 -> col_integral:45 / col_gold:0 / col_silver:2 / col_copper:1  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:08 -> col_integral:25 / col_gold:0 / col_silver:0 / col_copper:1  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:06 -> col_integral:75 / col_gold:3 / col_silver:0 / col_copper:1  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:05 -> col_integral:42 / col_gold:0 / col_silver:1 / col_copper:1  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:03 -> col_integral:17 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:09 -> col_integral:8 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:10:52
+sustdxyibanweb updata success college col_id:12 -> col_integral:69 / col_gold:1 / col_silver:1 / col_copper:3  2018-04-25 14:10:52
+sustdxyibanweb updata success finals fin_id:2203 -> fin_rank:07,05,08,06,09,02,10,12 / fin_score:26.25秒,34.88秒,42.25秒,42.53秒,45.75秒,46.59秒,46.90秒,52.30秒 / fin_newcord:  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:072203 -> team_score:2203:26.25秒 / team_integral:2203:18  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:052203 -> team_score:2203:34.88秒 / team_integral:2203:14  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:082203 -> team_score:2203:42.25秒 / team_integral:2203:12  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:062203 -> team_score:2203:42.53秒 / team_integral:2203:10  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:092203 -> team_score:2203:45.75秒 / team_integral:2203:8  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:022203 -> team_score:2203:46.59秒 / team_integral:2203:6  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:102203 -> team_score:2203:46.90秒 / team_integral:2203:4  2018-04-25 14:13:52
+sustdxyibanweb updata success team team_id:122203 -> team_score:2203:52.30秒 / team_integral:2203:2  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:07 -> col_integral:63 / col_gold:1 / col_silver:2 / col_copper:1  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:05 -> col_integral:56 / col_gold:0 / col_silver:2 / col_copper:1  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:08 -> col_integral:37 / col_gold:0 / col_silver:0 / col_copper:2  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:06 -> col_integral:85 / col_gold:3 / col_silver:0 / col_copper:1  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:09 -> col_integral:16 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:02 -> col_integral:76 / col_gold:3 / col_silver:1 / col_copper:0  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:10 -> col_integral:17 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:13:52
+sustdxyibanweb updata success college col_id:12 -> col_integral:71 / col_gold:1 / col_silver:1 / col_copper:3  2018-04-25 14:13:52
+sustdxyibanweb updata success finals fin_id:2303 -> fin_rank:02,08,06,05,03,07,12,01 / fin_score:59,57,52,50,44,33,31,24 / fin_newcord:  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:022303 -> team_score:2303:18,2303:59,2303:59 / team_integral:2303:18  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:082303 -> team_score:2303:14,2303:57,2303:57 / team_integral:2303:14  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:062303 -> team_score:2303:12,2303:52,2303:52 / team_integral:2303:12  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:052303 -> team_score:2303:10,2303:50,2303:50 / team_integral:2303:10  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:032303 -> team_score:2303:8,2303:44,2303:44 / team_integral:2303:8  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:072303 -> team_score:2303:6,2303:33,2303:33 / team_integral:2303:6  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:122303 -> team_score:2303:4,2303:31,2303:31 / team_integral:2303:4  2018-04-25 14:17:31
+sustdxyibanweb updata success team team_id:012303 -> team_score:2303:24 / team_integral:2303:2  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:02 -> col_integral:94 / col_gold:4 / col_silver:1 / col_copper:0  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:08 -> col_integral:52 / col_gold:0 / col_silver:1 / col_copper:2  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:06 -> col_integral:97 / col_gold:3 / col_silver:0 / col_copper:2  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:05 -> col_integral:66 / col_gold:0 / col_silver:2 / col_copper:1  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:03 -> col_integral:25 / col_gold:0 / col_silver:1 / col_copper:0  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:07 -> col_integral:69 / col_gold:1 / col_silver:2 / col_copper:1  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:12 -> col_integral:75 / col_gold:1 / col_silver:1 / col_copper:3  2018-04-25 14:17:31
+sustdxyibanweb updata success college col_id:01 -> col_integral:2 / col_gold:0 / col_silver:0 / col_copper:0  2018-04-25 14:17:31

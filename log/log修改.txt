@@ -1,0 +1,11 @@
+
+sustdxyibanweb updata fails team team_id:02303 -> team_score:2303:2 / team_integral:2303:  2018-04-25 11:24:02
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:27:54  ///已修改
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:27:56  ///已修改
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_status:1205:3  2018-04-25 11:28:17  ///已修改
+sustdxyibanweb updata fails athletes ath_id:085 -> ath_score:1205:6分26 / ath_integral:1205:1.  2018-04-25 11:41:36  ///已修改
+sustdxyibanweb updata fails team team_id:02303 -> team_score:2303:2 / team_integral:2303:  2018-04-25 11:43:31
+sustdxyibanweb updata fails athletes ath_id:051 -> ath_score:1106:5分05秒 / ath_integral:1106:1.  2018-04-25 11:46:15  ///已修改	
+sustdxyibanweb updata fails athletes ath_id:122 -> ath_score:1111:8.0 / ath_integral:1111:  2018-04-25 11:55:32
+sustdxyibanweb updata fails college col_id:12 -> col_integral:31 / col_gold:0 / col_silver:0 / col_copper:3  2018-04-25 11:55:32
+sustdxyibanweb updata fails athletes ath_id:126 -> ath_score:1208:3米82 / ath_integral:1208:1.  2018-04-25 11:56:38	///已修改
